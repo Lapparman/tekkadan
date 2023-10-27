@@ -2,7 +2,7 @@ version: "3"
 
 services:
   landingpage:
-    image: 'kovhico/landingpage:latest'
+    image: 'lapparman/tekkadan:1'
     container_name: 'landing-page'
     restart: 'always'
     ports:
